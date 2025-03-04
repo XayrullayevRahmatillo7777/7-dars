@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+/* h1{
+    text-align: center;
+    margin-top: 150px;
+    animation-name: r;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes r{
+    form{
+        transform: scale(3) rotate(360deg);
+       
+    }
+    to{
+        transform: rotate(360deg)  scale(3) ;
+    }
+
+
+} */
+.div1{
+    background-color: #F3D7B7;
+    height: 800px;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+ ul {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #000;
+font-weight: 700;
+font-size: 12px;
+line-height: 14.06px;
+letter-spacing: 1px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
